@@ -64,5 +64,5 @@ Pomocą w zrozumieniu projektu służą właściciele projektu.
 Projekt powstał dzięki uczestnictwu w kursie Data Science od SDA.
 
 ## Project status
-Projekt stanowi podstawową wersję predykcji opónień lotów.
+Projekt stanowi podstawową wersję predykcji opóźnień lotów.
 Pomysłem na dalsze rozwijanie projektu może być prognozowanie opóźnień lotów na podstawie danych pogodowych. 
